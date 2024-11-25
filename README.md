@@ -1,7 +1,11 @@
 # CER3-TALLER-DE-LP
 
 Ariel Vega
-Jopshiel dassonvalle
+Jopshiel Dassonvalle 
+
+Repositorio: 
+    https://github.com/Aury-Git/CER3-TALLER-DE-LP.git
+    https://github.com/Aury-Git/CER3-TALLER-DE-LP
 
 Entorno virtual:
 
